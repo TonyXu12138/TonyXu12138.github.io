@@ -17,9 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, welcome to my personal webpage! I'm Baixuan, a first year Ph.D. student from [Computer Science and Engineering Department](https://cse.hkust.edu.hk/) at [the Hong Kong University of Science and Techonology](https://hkust.edu.hk/) supervised by [Professor Yangqiu Song](https://hkust.edu.hk/). 
-
-
+Hi, welcome to my personal webpage! I'm Baixuan, a first year Ph.D. student from [Computer Science and Engineering Department](https://cse.hkust.edu.hk/) at [the Hong Kong University of Science and Techonology](https://hkust.edu.hk/) supervised by [Professor Yangqiu Song](https://hkust.edu.hk/). I received my bachelor degree in Computer Science and Mathematics from the same institution in 2024, and I am honored to be funded by the prestigious [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
