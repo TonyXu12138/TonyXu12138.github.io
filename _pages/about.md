@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Xu Baixuan Tony 徐柏轩
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>First year Ph.D. student at the Hong Kong University of Science and Technology</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
