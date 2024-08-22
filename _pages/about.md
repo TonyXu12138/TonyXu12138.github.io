@@ -17,9 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-##Bibliography
+## Bibliography
 Hi, welcome to my personal webpage! I'm Baixuan, a first year Ph.D. student from [Computer Science and Engineering Department](https://cse.hkust.edu.hk/) at [the Hong Kong University of Science and Techonology](https://hkust.edu.hk/) supervised by [Professor Yangqiu Song](https://hkust.edu.hk/). I received my bachelor degree in Computer Science and Mathematics from the same institution in 2024, and I am honored to be funded by the prestigious [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
+## Research Interests
 My research interest lies in Multimodal deep learning and E-commerce Knowledge base construction. If you are interested in these areas, please feel free to contact me at [bxuan at connect dot ust dot hk].
 
 
