@@ -18,10 +18,22 @@ social: true # includes social icons at the bottom of the page
 ---
 
 ## Bibliography
-Hi, welcome to my personal webpage! I'm Baixuan, a first year Ph.D. student from [Computer Science and Engineering Department](https://cse.hkust.edu.hk/) at [the Hong Kong University of Science and Techonology](https://hkust.edu.hk/) supervised by [Professor Yangqiu Song](https://hkust.edu.hk/). I received my bachelor degree in Computer Science and Mathematics from the same institution in 2024, and I am honored to be funded by the prestigious [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
+Hi, welcome to my personal webpage! I'm Baixuan, a first year Ph.D. student from [Computer Science and Engineering Department](https://cse.hkust.edu.hk/) at [the Hong Kong University of Science and Techonology](https://hkust.edu.hk/) supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bachelor degree in Computer Science and Mathematics from the same institution in 2024, and I am honored to be funded by the prestigious [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 
 ## Research Interests
 My research interest lies in Multimodal deep learning and E-commerce Knowledge base construction. If you are interested in these areas, please feel free to contact me at [bxuan at connect dot ust dot hk].
+
+## Education
+### The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)
+- Doctor of Philosophy in Computer Science and Engineering supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/), Sep. 2024 – Jul. 2028 (Expected)
+- Bachelor of Science in Computer Science and Mathematics, Sep. 2020 – Jun. 2024, First Class Honors, Academic Achievement Medal (~top 1% graduate)
+
+## Academic Service
+-Conference Reviewer: ACL Rolling Review
+
+
+
+## Awards
 
 
 
