@@ -36,8 +36,6 @@ The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.h
 - Dean’s List for the School of Engineering (8 Semesters)
 - University’s Scholarship Scheme for Continuing Undergraduate Students (2021 - 2023)
 
-## Selected Publications
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
