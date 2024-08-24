@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>the Hong Kong University of Science and Technology</a>.
+subtitle: <a href='#'>First year Ph.D. student at HKUST</a>.
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>First year Ph.D. student at HKUST</p>
-    <p>Tennis Fan</p>
+    <p>Crazy Tennis Fan</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
