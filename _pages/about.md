@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a>First year Ph.D. student at HKUST</a>.
+subtitle: <p>First year Ph.D. student at HKUST</p>.
 
 profile:
   align: right
