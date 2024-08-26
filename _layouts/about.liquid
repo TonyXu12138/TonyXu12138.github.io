@@ -77,9 +77,20 @@ layout: default
       {% include scripts/newsletter.liquid center=true %}
     {% endif %}
   </article>
-  <div class="mapmyvisitor">
-      <a href="https://mapmyvisitors.com/web/1bwbf" title="Visit tracker">
-      <img src="https://mapmyvisitors.com/map.png?d=BXJrh4ay-IW_zPtr-ZTlHCvdYwDjPUSJVKr8S3n0JMA&cl=ffffff" />
-      </a>
-  </div>
+  <style>
+    .centered {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+    }
+
+    .resized-image {
+      width: 50%; /* Adjust the percentage to change the size of the image */
+    }
+  </style>
+
+  <a href="https://mapmyvisitors.com/web/1bwbf" title="Visit tracker" class="centered">
+    <img src="https://mapmyvisitors.com/map.png?d=BXJrh4ay-IW_zPtr-ZTlHCvdYwDjPUSJVKr8S3n0JMA&cl=ffffff" class="resized-image" />
+  </a>
 </div>
