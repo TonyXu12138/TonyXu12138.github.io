@@ -1,3 +1,4 @@
+redirect_to: /
 ---
 layout: default
 permalink: /blog/
