@@ -23,8 +23,8 @@ This page is updated on 2025/05/16
 
 ## Research Interests
 My research interest lies in following areas:
-- Multimodal reasoning and its applications in E-commerce domain. [MIND](https://arxiv.org/abs/2406.10701)
-- Multi-agent Interaction and collaborative reasoning, specifically, I'm interested in the collective intelligence of the agent system. [Expertise Delegation](https://www.arxiv.org/abs/2505.07313)
+- Multimodal reasoning and its applications in E-commerce domain. [[MIND]](https://arxiv.org/abs/2406.10701)
+- Multi-agent Interaction and collaborative reasoning, specifically, I'm interested in the collective intelligence of the agent system. [[Expertise] Delegation](https://www.arxiv.org/abs/2505.07313)
 - VLM/LLMs' social intelligence, which explores the agent's capability in interacting with the society and human-beings.
 - VLM/LLMs' reasoning ability, especially from the perspective of meta-cognition (system2 thinking and beyond)
 
