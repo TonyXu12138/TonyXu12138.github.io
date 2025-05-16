@@ -1,4 +1,4 @@
-redirect_to: /
+<!-- redirect_to: /
 ---
 layout: default
 permalink: /blog/
@@ -194,4 +194,4 @@ pagination:
 {% include pagination.liquid %}
 {% endif %}
 
-</div>
+</div> -->
