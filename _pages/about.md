@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>First year Ph.D. student at HKUST</p>.
+subtitle: <p>First year Ph.D. student at HKUST</p>
 
 profile:
   align: right
@@ -19,9 +19,16 @@ social: true # includes social icons at the bottom of the page
 
 ## Bibliography
 Hi, welcome to my personal webpage! I'm Baixuan, a first year Ph.D. student from [Computer Science and Engineering Department](https://cse.hkust.edu.hk/) at [the Hong Kong University of Science and Techonology](https://hkust.edu.hk/) supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bachelor degree in Computer Science and Mathematics from the same institution in 2024, and I am honored to be funded by the prestigious [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
+This page is updated on 2025/05/16
 
 ## Research Interests
-My research interest lies in Multimodal deep learning and E-commerce Knowledge base construction. If you are interested in these areas, please feel free to contact me at `bxuan at connect dot ust dot hk`.
+My research interest lies in following areas:
+- Multimodal reasoning and its applications in E-commerce domain [MIND](https://arxiv.org/abs/2406.10701).
+- Multi-agent Interaction and collaborative reasoning, specifically, I'm interested in the collective intelligence of the agent system. [Expertise Delegation](https://www.arxiv.org/abs/2505.07313)
+- VLM/LLMs' social intelligence, which explores the agent's capability in interacting with the society and humanbeings.
+- VLM/LLMs' reasoning ability, especially from the perspective of meta-cognition (system2 thinking and beyond)
+
+ If you are interested in these areas, please feel free to contact me at `bxuan at connect dot ust dot hk`.
 
 ## Education
 The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)
