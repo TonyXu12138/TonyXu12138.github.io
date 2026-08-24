@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Baixuan
-middle_name: 
+middle_name:
 last_name: Xu Tony 徐柏轩
 email: bxuan@connect.ust.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -48,7 +48,7 @@ rss_icon:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: 
+search_enabled:
 socials_in_search: true
 bib_search: true
 
@@ -113,7 +113,6 @@ zotero_username: # your zotero username
 
 contact_note: >
 # You can even add a little note about which of these is the best way to reach you.
-
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
