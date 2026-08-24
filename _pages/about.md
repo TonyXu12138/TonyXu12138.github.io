@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>First year Ph.D. student at HKUST</p>
+subtitle: <p>Second year Ph.D. student at HKUST</p>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>First year Ph.D. student at HKUST</p>
-    <p>Crazy Tennis Fan</p>
+    <p>Second year Ph.D. student at HKUST</p>
+    <p>I'm a Tennis Fan</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -18,15 +18,18 @@ social: true # includes social icons at the bottom of the page
 ---
 
 ## Bibliography
-Hi, welcome to my personal webpage! I'm Baixuan, a first year Ph.D. student from [Computer Science and Engineering Department](https://cse.hkust.edu.hk/) at [the Hong Kong University of Science and Techonology](https://hkust.edu.hk/) supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bachelor degree in Computer Science and Mathematics from the same institution in 2024, and I am honored to be funded by the prestigious [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
-This page is updated on 2025/05/16
+Hi, welcome to my personal webpage! I'm Baixuan, a second year Ph.D. student from [Computer Science and Engineering Department](https://cse.hkust.edu.hk/) at [the Hong Kong University of Science and Techonology](https://hkust.edu.hk/) supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bachelor degree in Computer Science and Mathematics from the same institution in 2024, and I am honored to be funded by the prestigious [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
+I am currently an intern at Xiaomi MiMo building frontier foundation models (2026-02 - Now). I mainly focus on:
+- Pre-train data engineering and curation, particularly code-related data and web data preparation.
+- SFT/RL data construction via scaling agentic environments for post-training.
+This page is updated on 2026/08/25
 
 ## Research Interests
-My research interest lies in following areas:
-- Multimodal reasoning and its applications in E-commerce domain. [[MIND]](https://arxiv.org/abs/2406.10701)
-- Multi-agent Interaction and collaborative reasoning, specifically, I'm interested in the collective intelligence of the agent system. [[Expertise Delegation]](https://www.arxiv.org/abs/2505.07313)
-- VLM/LLMs' social intelligence, which explores the agent's capability in interacting with the society and human-beings.
-- VLM/LLMs' reasoning ability, especially from the perspective of meta-cognition (system2 thinking and beyond)
+My research interests lie in the following areas:
+- User-intent understanding, particularly for e-commerce applications. [[MIND]](https://arxiv.org/abs/2406.10701)
+- Pre-training data recipes and evaluation, including data mixture design, quality control, and capability-oriented assessment.
+- Agentic RL, with a focus on synthesizing scalable environments and constructing high-quality trajectories for mid-training and SFT.
+- I also have done some research on understanding long-horizon agents. [[Cognitive Bandwidth Bottleneck]](https://arxiv.org/abs/2510.07091)
 
  If you are interested in these areas, please feel free to contact me at `bxuan at connect dot ust dot hk`.
 
