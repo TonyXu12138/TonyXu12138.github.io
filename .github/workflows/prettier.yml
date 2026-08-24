@@ -23,7 +23,13 @@ jobs:
         run: npm ci
       - name: Prettier Check 🔎
         id: prettier
-        run: npx prettier . --check
+        run: |
+          files=$(git diff --name-only "$GITHUB_SHA^" "$GITHUB_SHA")
+          if [ -n "$files" ]; then
+            echo "$files" | xargs npx prettier --check
+          else
+            echo "No files changed; skipping Prettier check."
+          fi
       - name: Create diff 📝
         # https://docs.github.com/en/actions/learn-github-actions/expressions#failure
         if: ${{ failure() }}
