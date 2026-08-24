@@ -22,9 +22,9 @@ social: true # includes social icons at the bottom of the page
 Hi, welcome to my personal webpage! I'm Baixuan, a second year Ph.D. student from [Computer Science and Engineering Department](https://cse.hkust.edu.hk/) at [the Hong Kong University of Science and Techonology](https://hkust.edu.hk/) supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bachelor degree in Computer Science and Mathematics from the same institution in 2024, and I am honored to be funded by the prestigious [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
 I am currently an intern at Xiaomi MiMo building frontier foundation models (2026-02 - Now). I mainly focus on:
 
-<p><strong>Pre-train data engineering and curation, particularly code-related data and web data preparation.</strong> <em>[Work conducted during my internship at Xiaomi MiMo]</em></p>
+<p><strong>Pre-train data engineering and curation, particularly code-related data and web data preparation.</strong></p>
 
-<p><strong>SFT/RL data construction via scaling agentic environments for post-training.</strong> <em>[Work conducted during my internship at Xiaomi MiMo]</em></p>
+<p><strong>SFT/RL data construction via scaling agentic environments for post-training.</strong></p>
 
 This page is updated on 2026/08/25
 
@@ -34,9 +34,9 @@ My research interests lie in the following areas:
 
 **User-intent understanding, particularly for e-commerce applications.** [[MIND]](https://arxiv.org/abs/2406.10701)
 
-**Pre-training data recipes and evaluation, including data mixture design, quality control, and capability-oriented assessment.**
+**Pre-training data recipes and evaluation, including data mixture design, quality control, and capability-oriented assessment.** <em>[Work conducted during my internship at Xiaomi MiMo]</em>
 
-**Agentic RL, with a focus on synthesizing scalable environments and constructing high-quality trajectories for mid-training and SFT.**
+**Agentic RL, with a focus on synthesizing scalable environments and constructing high-quality trajectories for mid-training and SFT.** <em>[Work conducted during my internship at Xiaomi MiMo]</em>
 
 **I also have done some research on understanding long-horizon agents.** [[Cognitive Bandwidth Bottleneck]](https://arxiv.org/abs/2510.07091)
 
