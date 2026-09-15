@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ## Bibliography
 
 Hi, welcome to my personal webpage! I'm Baixuan, a second year Ph.D. student from [Computer Science and Engineering Department](https://cse.hkust.edu.hk/) at [the Hong Kong University of Science and Techonology](https://hkust.edu.hk/) supervised by [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I received my bachelor degree in Computer Science and Mathematics from the same institution in 2024, and I am honored to be funded by the prestigious [HKPFS](https://fytgs.hkust.edu.hk/scholarships/hong-kong-phd-fellowship-scheme) award.
-I am currently an intern at Xiaomi MiMo building frontier foundation models (2026-02 - Now). I mainly focus on:
+I was an intern at Xiaomi MiMo building frontier foundation models (2026-02 - 2026-09). I mainly focus on:
 
 <p><strong>Pre-train data engineering and curation, particularly code-related data and web data preparation.</strong></p>
 
