@@ -26,7 +26,9 @@ I was an intern at Xiaomi MiMo building frontier foundation models (2026-02 - 20
 
 <p><strong>SFT/RL data construction via scaling agentic environments for post-training.</strong></p>
 
-This page is updated on 2026/09/15
+<p><strong>I am a core contributor to the MiMo-V2.6-Pro series.</strong></p>
+
+This page is updated on 2026/09/22
 
 ## Research Interests
 
